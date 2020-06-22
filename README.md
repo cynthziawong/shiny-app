@@ -10,7 +10,7 @@ This repository follows along the Shiny App Tutorial
 - [Lesson 6](https://shiny.rstudio.com/tutorial/written-tutorial/lesson6/)
 - [Lesson 7](https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/)
 
-## Files Included in this file
+## Files Included
 
 - Data
 - R Shiny
