@@ -2,13 +2,21 @@
 
 This repository follows along the Shiny App Tutorial
 
-- [Lesson 1](http://shiny.rstudio.com/tutorial/written-tutorial/lesson1/)
-- Lesson 2
-- Lesson 3
-- Lesson 4
-- Lesson 5
-- Lesson 6
-- Lesson 7
+- [Lesson 1](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/)
+- [Lesson 2](https://shiny.rstudio.com/tutorial/written-tutorial/lesson2/)
+- [Lesson 3](https://shiny.rstudio.com/tutorial/written-tutorial/lesson3/)
+- [Lesson 4](https://shiny.rstudio.com/tutorial/written-tutorial/lesson4/)
+- [Lesson 5](https://shiny.rstudio.com/tutorial/written-tutorial/lesson5/)
+- [Lesson 6](https://shiny.rstudio.com/tutorial/written-tutorial/lesson6/)
+- [Lesson 7](https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/)
 
+## Files Included in this file
 
+- Data
+- R Shiny
 
+## Inspiration Apps.
+
+- https://shiny.rstudio.com/gallery/real-estate-investment.html
+- https://shiny.rstudio.com/gallery/uber-rider.html
+- https://shiny.rstudio.com/gallery/city-cycle.html
