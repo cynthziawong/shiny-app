@@ -15,6 +15,12 @@ This repository follows along the Shiny App Tutorial
 - Data
 - R Shiny
 
+
+
+## Datasets
+- [NYC Firework Complaints](https://data.cityofnewyork.us/Social-Services/311-Fireworks-Complaints/g4u2-tvag)
+
+
 ## Inspiration Apps.
 
 - https://shiny.rstudio.com/gallery/real-estate-investment.html
